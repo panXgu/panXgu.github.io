@@ -17,9 +17,17 @@
     },
     {
       "chainId": 56,
-      "address": "0x39AA39c021dfbaE8faC545936693aC917d5E7563",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "name": "Compound USD ",
       "symbol": "USDC",
       "decimals": 18,
       "logoURI": "https://panxgu.github.io/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x6743665257c429605aa344ed04dff7a183a50296",
+      "name": "QJ",
+      "symbol": "QJ",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_QJ.svg"
     },
