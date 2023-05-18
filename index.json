@@ -48,9 +48,9 @@
       "logoURI": "https://panxgu.github.io/assets/asset_TON.svg"
     }
   ],
-  "version": {
+  "version": { 
     "major": 2,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   }
 }
