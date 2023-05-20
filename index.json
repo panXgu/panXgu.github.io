@@ -37,7 +37,7 @@
       "name": "XQJ",
       "symbol": "XQJ",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_QJ.svg"
+      "logoURI": "https://panxgu.github.io/assets/asset_XQJ.svg"
     },
     {
       "chainId": 56,
@@ -57,8 +57,8 @@
     }
   ],
   "version": { 
-    "major": 0,
-    "minor": 0,
+    "major": 2,
+    "minor": 1,
     "patch": 1
   }
 }
