@@ -24,7 +24,7 @@
       "logoURI": "https://panxgu.github.io/assets/asset_USDC.svg"
     },
     {
-      "chainId": 56,
+      "chainId": 5,
       "address": "0x6743665257c429605aa344ed04dff7a183a50296",
       "name": "QJ",
       "symbol": "QJ",
@@ -59,6 +59,6 @@
   "version": { 
     "major": 2,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
